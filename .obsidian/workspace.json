@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "3c1e9e07e4f2a5a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8f11610a4ff9831",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a5573748871e8a5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-06-25 21.29.29.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-25 21.29.29.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75923977fb5e3a03",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8ec0a01cae5199",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60b93b507ac4f5e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f11bee77d68e1a70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "946a4319b47b6669",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0eba2a00e2873f99",
+    "type": "split",
+    "children": [
+      {
+        "id": "476fb52fe8dd916d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "666aa8bb11083009",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LeetCode/LeetCode - System Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LeetCode - System Design"
+            }
+          },
+          {
+            "id": "558e61199957b342",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LeetCode/LeetCode - System Design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LeetCode - System Design"
+            }
+          },
+          {
+            "id": "a610d9fc6e8173b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e55684ea8f1459c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LeetCode/LeetCode - System Design.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LeetCode - System Design"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "9a5573748871e8a5",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-06-25 21.29.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-25 21.29.29.excalidraw.md",
+    "imgs/Pasted Image 20250626103214_222.png",
+    "imgs/Pasted Image 20250626103156_824.png",
+    "imgs/Pasted Image 20250626103101_100.png",
+    "imgs/Pasted Image 20250626103000_342.png",
+    "News_Feed/Untitled.md",
+    "Excalidraw",
+    "LeetCode/LeetCode - System Design.md",
+    "README.md",
+    "Messenger",
+    "Google Docs",
+    "imgs/Pasted image 20250509155823.png",
+    "imgs/Pasted image 20250509155438.png",
+    "imgs/Pasted image 20250509154858.png",
+    "imgs/Pasted image 20250509154626.png",
+    "imgs/Pasted image 20250509154434.png",
+    "imgs/Pasted image 20250509154334.png",
+    "imgs",
+    "Exercises.md",
+    "LeetCode"
+  ]
+}
