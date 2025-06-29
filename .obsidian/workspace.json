@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a5573748871e8a5",
+            "id": "d128c7f2a6f8a990",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-06-25 21.29.29.excalidraw.md"
+                "file": "Chat System/Messenger.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-25 21.29.29.excalidraw"
+              "title": "Messenger"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0eba2a00e2873f99",
@@ -167,28 +168,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a5573748871e8a5",
+  "active": "d128c7f2a6f8a990",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-06-25 21.29.20.excalidraw.md",
+    "Chat System/messenger_v1.png",
+    "Chat System/Messenger.md",
     "Excalidraw/Drawing 2025-06-25 21.29.29.excalidraw.md",
+    "LeetCode/LeetCode - System Design.md",
+    "General.md",
+    "README.md",
+    "Exercises.md",
+    "Excalidraw/Drawing 2025-06-25 21.29.20.excalidraw.md",
     "imgs/Pasted Image 20250626103214_222.png",
     "imgs/Pasted Image 20250626103156_824.png",
     "imgs/Pasted Image 20250626103101_100.png",
     "imgs/Pasted Image 20250626103000_342.png",
     "News_Feed/Untitled.md",
     "Excalidraw",
-    "LeetCode/LeetCode - System Design.md",
-    "README.md",
-    "Messenger",
+    "Chat System",
     "Google Docs",
     "imgs/Pasted image 20250509155823.png",
     "imgs/Pasted image 20250509155438.png",
     "imgs/Pasted image 20250509154858.png",
     "imgs/Pasted image 20250509154626.png",
     "imgs/Pasted image 20250509154434.png",
-    "imgs/Pasted image 20250509154334.png",
     "imgs",
-    "Exercises.md",
     "LeetCode"
   ]
 }
